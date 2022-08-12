@@ -9,6 +9,7 @@ root.title("Location Search")
 canvas_color = "#FB6223"
 frame_color = "#2DE3E9"
 inner_frame_color = "#2EE3E9"
+
 button_color = "#B8E82D"
 entry_color = "#F2FECE"
 font_ = ("Handlee", 16)
